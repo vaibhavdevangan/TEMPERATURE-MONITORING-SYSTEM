@@ -1,9 +1,21 @@
 # TEMPERATURE-MONITORING-SYSTEM
 
+TASK 3 (EMBEDDED SYSTEMS INTERNSHIP)
 
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: VAIBHAV UMESH DEWANGAN
+
+INTERN ID: CT08MYM
+
+DOMAIN: EMBEDDED SYSTEMS
+
+BATCH DURATION: January 20th,2025 to February 20th,2025 (4 Weeks)
+
+MENTOR NAME: Neela Santhosh Kumar
+
+TASK:--
 Temperature sensor(LM35) with esp32 module to display  current temperature data on serial monitor.
-
 ESP32 Temperature Monitoring with LM35
 # Overview
 
