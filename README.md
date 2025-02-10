@@ -114,6 +114,9 @@ Key Points:
     voltage: The analog value is converted to a voltage by dividing by the ADC resolution (4095 for a 12-bit ADC) and multiplying by the reference voltage (3.3V for the ESP32).
     temperatureC: The LM35 outputs 10mV per degree Celsius, so the voltage is multiplied by 100 to get the temperature in Celsius.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/ff6ebd12-e66d-46cd-9fcc-f95be421d46a)
+
 Troubleshooting
 
     No Output on Serial Monitor: Ensure that the correct COM port is selected and that the baud rate in the Serial Monitor matches 115200 (or whatever is specified in the code).
